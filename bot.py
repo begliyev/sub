@@ -7,7 +7,7 @@ import requests
 from datetime import datetime, timedelta
 
 # Sazlamalar (Dinamik hem okap bilýär, ýöne göni goýduk)
-TG_TOKEN = "8837363880:AAGJzAvJ4CKfGRkhwXuODOob3bJ6dyjelO4"
+TG_TOKEN = "8869378111:AAFAsF_eb-hPpgqJAdPKv9ri97yBDFBdPSg"
 ADMIN_ID = "6644058515"
 DB_FILE = "db.json"
 
